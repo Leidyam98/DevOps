@@ -23,4 +23,29 @@ A lo largo de este trabajo, se explorarán las siguientes secciones:
 - https://www.akamai.com/es/blog/security/owasp-top-10-api-security-risks-2023-edition
 - https://cloudkul.com/blog/owasp-top-10-2021/
 - https://unaaldia.hispasec.com/2017/11/owasp-publica-la-edicion-2017-de-su-top-10-web-application-security-risks.html
-- 
+
+
+**A05:2025 - Injection**
+
+**Descripción de cada vulnerabilidad**
+
+**Métodos de explotación**:
+
+**Mejores prácticas de prevención y mitigación**:
+
+**A06:2025 - Insecure Design**
+
+**Descripción de cada vulnerabilidad**
+
+**Métodos de explotación**:
+
+**Mejores prácticas de prevención y mitigación**:
+
+**A07:2025 - Authentication Failures**
+
+**Descripción de cada vulnerabilidad**
+
+**Métodos de explotación**:
+
+**Mejores prácticas de prevención y mitigación**:
+
