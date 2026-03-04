@@ -44,8 +44,7 @@ El atacante explota un vacío en el diseño del flujo para forzar un comportamie
 Paso 3 – Resultado o impacto
 El negocio pierde dinero o sufre abuso operativo porque el sistema nunca diseñó defensas para ese escenario.
 
-[](<img width="1536" height="291" alt="image" src="https://github.com/user-attachments/assets/8278eb84-76e4-4f0b-9fe4-310cd207f96f" />
-)
+[](https://https://github.com/user-attachments/assets/8278eb84-76e4-4f0b-9fe4-310cd207f96f)
 
 <image src="img width="1536" height="291" alt="image" src="https://github.com/user-attachments/assets/8278eb84-76e4-4f0b-9fe4-310cd207f96f" alt="Descripción de la imagen">
 **Mejores prácticas de prevención y mitigación**:
