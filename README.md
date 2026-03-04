@@ -11,7 +11,7 @@ Esta categoría abarca vulnerabilidades que se presentan cuando una aplicación 
 - **Cross-Site Scripting (XSS)**: inyectar código malicioso en páginas web.
 - **Command Injection: ejecutar** comandos en el sistema operativo.
 
-![Dayana](https://media.licdn.com/dms/image/v2/D4E12AQEow10bwC4owg/article-inline_image-shrink_1500_2232/B4EZwfVL.CHsAU-/0/1770052175407?e=1774483200&v=beta&t=V8-LW0STE7d8efWUmwJc9EjT_H_ed_AlxNTB2vPDMgk)
+![](https://media.licdn.com/dms/image/v2/D4E12AQEow10bwC4owg/article-inline_image-shrink_1500_2232/B4EZwfVL.CHsAU-/0/1770052175407?e=1774483200&v=beta&t=V8-LW0STE7d8efWUmwJc9EjT_H_ed_AlxNTB2vPDMgk)
 
 
 **Mejores prácticas de prevención y mitigación**:
