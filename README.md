@@ -13,7 +13,12 @@ Esta categoría abarca vulnerabilidades que se presentan cuando una aplicación 
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQEow10bwC4owg/article-inline_image-shrink_1500_2232/B4EZwfVL.CHsAU-/0/1770052175407?e=1774483200&v=beta&t=V8-LW0STE7d8efWUmwJc9EjT_H_ed_AlxNTB2vPDMgk)
 
+### Ejemplo ataque real
 
+**Vulnerabilidad de inyección SQL en MOVEit Transfer**
+En mayo de 2023, Progress reveló una vulnerabilidad crítica de inyección SQL en MOVEit Transfer, identificada como ![CVE-2023-34362](https://www.indusface.com/blog/moveit-zero-day-indusface-coverage/) . Esta falla permitía el acceso no autorizado a bases de datos, lo que hacía vulnerables los datos confidenciales. Atacantes asociados con el grupo de ransomware Clop la explotaron como un ataque de día cero antes de que se corrigiera la vulnerabilidad.
+
+Impacto : Se comprometieron bases de datos y se robó información confidencial. La disponibilidad de código de prueba de concepto (PoC) aumentó la probabilidad de mayor explotación por parte de otros actores maliciosos que atacaban sistemas sin parches.
 **Mejores prácticas de prevención y mitigación**:
 
 **A06:2025 - Insecure Design**
