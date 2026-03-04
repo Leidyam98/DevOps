@@ -13,7 +13,7 @@ Paso 1 – Contexto del sistema Un módulo de búsqueda arma consultas dinámica
 Paso 2 – Acción general del atacante El atacante introduce un valor diseñado para cambiar el significado de la consulta en vez de solo “buscar”.
 Paso 3 – Resultado o impacto La aplicación devuelve información que no debería o ejecuta operaciones no previstas, afectando datos y confidencialidad.
 
-[](https://media.licdn.com/dms/image/v2/D4E12AQEow10bwC4owg/article-inline_image-shrink_1500_2232/B4EZwfVL.CHsAU-/0/1770052175407?e=1774483200&v=beta&t=V8-LW0STE7d8efWUmwJc9EjT_H_ed_AlxNTB2vPDMgk)
+![](https://media.licdn.com/dms/image/v2/D4E12AQEow10bwC4owg/article-inline_image-shrink_1500_2232/B4EZwfVL.CHsAU-/0/1770052175407?e=1774483200&v=beta&t=V8-LW0STE7d8efWUmwJc9EjT_H_ed_AlxNTB2vPDMgk)
 
 ### Ejemplo ataque real
 
@@ -44,19 +44,36 @@ El atacante explota un vacío en el diseño del flujo para forzar un comportamie
 Paso 3 – Resultado o impacto
 El negocio pierde dinero o sufre abuso operativo porque el sistema nunca diseñó defensas para ese escenario.
 
-[](https://https://github.com/user-attachments/assets/8278eb84-76e4-4f0b-9fe4-310cd207f96f)
+![](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147492532/images/162cabe-0b28-1408-4362-db8b47f2be84_ChatGPT_Image_1_feb_2026_02_57_39_a.m..png)
 
-<image src="img width="1536" height="291" alt="image" src="https://github.com/user-attachments/assets/8278eb84-76e4-4f0b-9fe4-310cd207f96f" alt="Descripción de la imagen">
 **Mejores prácticas de prevención y mitigación**:
 
 **A07:2025 - Authentication Failures**
 
-https://www.indusface.com/learning/injection-attacks/
-
 **Descripción de cada vulnerabilidad**
 
+Estas fallas ocurren cuando las aplicaciones permiten a los atacantes comprometer contraseñas, claves, tokens de sesión o explotar fallas de implementación para suplantar la identidad de los usuarios. Desde el robo de credenciales y los ataques de fuerza bruta hasta el secuestro de sesiones y mecanismos de recuperación de contraseñas débiles, estas vulnerabilidades permiten el acceso no autorizado que evade todos los demás controles de seguridad.
+
 **Métodos de explotación**:
+Paso 1 – Contexto del sistema
+Una aplicación usa solo contraseña y permite intentos repetidos de login.
+
+Paso 2 – Acción general del atacante
+El atacante prueba credenciales reutilizadas filtradas en incidentes anteriores, de forma automatizada.
+
+Paso 3 – Resultado o impacto
+Consigue acceso a cuentas reales, toma control de perfiles y opera como el usuario legítimo.
+
+![](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147492532/images/5a0c670-e521-5cad-4fcf-c51f0203b430_ChatGPT_Image_1_feb_2026_03_04_47_a.m..png)
+
 
 **Mejores prácticas de prevención y mitigación**:
+- Fortalecer la autenticación mediante MFA, claves de acceso (passkeys) y autenticación adaptativa basada en riesgos para prevenir robo de credenciales y phishing.
+
+- Proteger contra ataques automatizados implementando detección avanzada de bots, limitación de intentos, bloqueo de cuentas y monitoreo continuo de anomalías.
+
+- Aplicar buenas prácticas en contraseñas y sesiones, incluyendo políticas alineadas a estándares (NIST), uso de gestores de contraseñas y gestión segura de sesiones.
+
+- Asegurar recuperación y monitoreo de credenciales, reforzando flujos de restablecimiento, verificando filtraciones y utilizando soluciones de autenticación confiables y probadas.
 
 Injection - https://www.indusface.com/learning/injection-attacks/
