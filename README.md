@@ -28,8 +28,16 @@ A lo largo de este trabajo, se explorarán las siguientes secciones:
 **A05:2025 - Injection**
 
 **Descripción de cada vulnerabilidad**
+Esta categoría abarca vulnerabilidades que se presentan cuando una aplicación permite que datos no confiables lleguen a un intérprete (como una base de datos, navegador, sistema operativo o motor de búsqueda) y estos se procesen como instrucciones en lugar de simples datos.
+
+
 
 **Métodos de explotación**:
+- **SQL Injection**: alterar consultas a bases de datos.
+- **Cross-Site Scripting (XSS)**: inyectar código malicioso en páginas web.
+- **Command Injection: ejecutar** comandos en el sistema operativo.
+
+- https://media.licdn.com/dms/image/v2/D4E12AQEow10bwC4owg/article-inline_image-shrink_1500_2232/B4EZwfVL.CHsAU-/0/1770052175407?e=1774483200&v=beta&t=V8-LW0STE7d8efWUmwJc9EjT_H_ed_AlxNTB2vPDMgk
 
 **Mejores prácticas de prevención y mitigación**:
 
